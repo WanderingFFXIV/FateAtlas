@@ -5,12 +5,13 @@
     "Punchline": "Find level-appropriate FATE areas and track active FATEs.",
     "Description": "Provides a level-aware FATE leveling directory, direct teleport buttons for unlocked aetherytes, and a live current-area FATE pane with level, progress, remaining time, and click-to-map functionality.",
     "InternalName": "FateAtlas",
-    "AssemblyVersion": "0.3.3.0",
+    "AssemblyVersion": "0.3.6.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "RepoUrl": "https://github.com/WanderingFFXIV/FateAtlas",
-    "DownloadLinkInstall": "https://github.com/WanderingFFXIV/FateAtlas/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/WanderingFFXIV/FateAtlas/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/WanderingFFXIV/FateAtlas/releases/download/v0.3.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/WanderingFFXIV/FateAtlas/releases/download/v0.3.6/latest.zip",
+    "Changelog": "Fixed Active FATE pane close and reopen behavior.",
     "IsHide": false,
     "IsTestingExclusive": false
   }
