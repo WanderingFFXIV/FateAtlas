@@ -1,3 +1,6 @@
+An Addon to List Fates by Level and Area based upon currently equipped class.
+Also includes Local Area Fate information and tracking.
+
 ## Data sources
 
 FATE leveling route information was compiled from publicly available
